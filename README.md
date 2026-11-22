@@ -1,6 +1,6 @@
 ##  SocketSweep
 
-A zero-dependency, multi-threaded TCP port scanner, service fingerprinter, and passive/active HTTP banner grabber built from scratch in Python.
+A zero-dependency, multi-threaded TCP port scanner, service fingerprinter, and passive/active HTTP banner grabber HandCrafted  investing more than a day from scratch in Python.
 
 ### [Launch SocketSweep ->](https://github.io)
 
