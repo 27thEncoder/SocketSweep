@@ -1,0 +1,23 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Scan output reports & local logs
+*.json
+*.txt
+*.log
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
