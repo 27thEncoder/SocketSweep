@@ -17,6 +17,7 @@ python3 socketsweep.py -t scanme.nmap.org -p 1-1024 -o report.json
 *Requires Python 3.8+ (uses only standard library modules: `socket`, `concurrent.futures`, `threading`, `argparse`, `json`).*
 *mostly installed in most of the linux builds....
 *Built on Kali linux.....
+
 ---
 
 ## Legal Notice
